@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "senai.Inlock.webApi", "senai.Inlock.webApi\senai.Inlock.webApi.csproj", "{7C5C23AE-7F09-426A-9EFD-521D1C00B26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5C23AE-7F09-426A-9EFD-521D1C00B26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5C23AE-7F09-426A-9EFD-521D1C00B26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5C23AE-7F09-426A-9EFD-521D1C00B26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5C23AE-7F09-426A-9EFD-521D1C00B26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E10832-31F4-436A-AF49-957803F0E4B8}
+	EndGlobalSection
+EndGlobal
