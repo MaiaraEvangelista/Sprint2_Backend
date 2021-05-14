@@ -81,7 +81,7 @@ namespace senai.hroads.webApi.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            //Promove a exclusão do usuário
+            //Promove a exclusão da classe
             _classeRepository.Deletar(id);
 
             //Retorna que não tem conteúdo
