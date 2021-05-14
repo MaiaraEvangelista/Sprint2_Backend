@@ -7539,11 +7539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENAI\\Desktop\\maiara\\Sprint2_Backend\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi.csproj",
+      "projectUniqueName": "C:\\Users\\SENAI\\Desktop\\Maiara Sprit Back\\Sprint2_Backend\\senai_MedicalGroup.webApi\\CODE\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi.csproj",
       "projectName": "senai_MedicalGroup.webApi",
-      "projectPath": "C:\\Users\\SENAI\\Desktop\\maiara\\Sprint2_Backend\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi.csproj",
+      "projectPath": "C:\\Users\\SENAI\\Desktop\\Maiara Sprit Back\\Sprint2_Backend\\senai_MedicalGroup.webApi\\CODE\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi.csproj",
       "packagesPath": "C:\\Users\\SENAI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENAI\\Desktop\\maiara\\Sprint2_Backend\\senai_MedicalGroup.webApi\\senai_MedicalGroup.webApi\\obj\\",
+      "outputPath": "C:\\Users\\SENAI\\Desktop\\Maiara Sprit Back\\Sprint2_Backend\\senai_MedicalGroup.webApi\\CODE\\senai_MedicalGroup.webApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
